@@ -23,14 +23,17 @@
     </div>
   </div>
   <div class="bg-white flex justify-center flex-col items-center py-24">
-  <p class="max-w-lg mx-auto text-5xl md:text-4xl font-medium text-center leading-relaxed">
-    Amazing clients have allowed us to produce work we are proud of.
-  </p>
-  <button class="mt-14 px-6 py-3 rounded-3xl text-white bg-black hover:bg-gray-800 transition font-medium scale-100">
-    View Our Work
-  </button>
-</div>
-
+    <p
+      class="max-w-lg mx-auto text-5xl md:text-4xl font-medium text-center leading-relaxed"
+    >
+      Amazing clients have allowed us to produce work we are proud of.
+    </p>
+    <button
+      class="mt-14 px-6 py-3 rounded-3xl text-white bg-black hover:bg-gray-800 transition font-medium scale-100"
+    >
+      View Our Work
+    </button>
+  </div>
 </template>
 
 <style scoped></style>
